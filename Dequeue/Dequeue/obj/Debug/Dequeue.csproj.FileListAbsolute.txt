@@ -1,0 +1,5 @@
+C:\Users\jeff wang\Desktop\vs2013\Dequeue\Dequeue\bin\Debug\Dequeue.exe.config
+C:\Users\jeff wang\Desktop\vs2013\Dequeue\Dequeue\bin\Debug\Dequeue.exe
+C:\Users\jeff wang\Desktop\vs2013\Dequeue\Dequeue\bin\Debug\Dequeue.pdb
+C:\Users\jeff wang\Desktop\vs2013\Dequeue\Dequeue\obj\Debug\Dequeue.exe
+C:\Users\jeff wang\Desktop\vs2013\Dequeue\Dequeue\obj\Debug\Dequeue.pdb

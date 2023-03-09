@@ -1,0 +1,5 @@
+C:\Users\jeff wang\Desktop\vs2013\BFS\BFS\bin\Debug\BFS.exe.config
+C:\Users\jeff wang\Desktop\vs2013\BFS\BFS\bin\Debug\BFS.exe
+C:\Users\jeff wang\Desktop\vs2013\BFS\BFS\bin\Debug\BFS.pdb
+C:\Users\jeff wang\Desktop\vs2013\BFS\BFS\obj\Debug\BFS.exe
+C:\Users\jeff wang\Desktop\vs2013\BFS\BFS\obj\Debug\BFS.pdb
